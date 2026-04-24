@@ -106,7 +106,7 @@ Try these prompts in Claude once the server is running:
 ## Development
 
 ```bash
-git clone https://github.com/atlas/satnogs-mcp
+git clone https://github.com/harris-mohamed/satnogs-mcp.git
 cd satnogs-mcp
 pip install -e ".[dev]"
 pytest tests/ -v
