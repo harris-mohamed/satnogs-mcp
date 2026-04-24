@@ -1,3 +1,5 @@
+[![PyPI](https://img.shields.io/pypi/v/satnogs-mcp)](https://pypi.org/project/satnogs-mcp/)
+
 # satnogs-mcp
 
 An [MCP](https://modelcontextprotocol.io/) server that gives Claude (and other MCP clients) full access to the [SatNOGS](https://satnogs.org/) open satellite observation network — the world's largest open-source ground-station network for amateur satellites.
